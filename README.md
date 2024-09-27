@@ -1,4 +1,4 @@
-automation, vidya, and random musings
+networking, automation, vidya, and random musings
 
 
 avatar credit to http://nicksazani.tumblr.com/
