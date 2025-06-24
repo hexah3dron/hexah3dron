@@ -1,4 +1,4 @@
-networking, automation, vidya, and random musings
+networking, automation, video game programming/devops, and random musings
 
 
 avatar credit to http://nicksazani.tumblr.com/
